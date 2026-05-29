@@ -220,7 +220,7 @@ with col_chart:
 
 with col_blank:
     st.subheader("Reserved Panel")
-    st.info("This space is reserved for a future panel — ask your developer to add something here!")
+    st.info("Future panel")
 
 st.divider()
 st.subheader("Future Panels")
